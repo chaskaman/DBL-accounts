@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="What is DBL accounts?">¿Qué es DBL accounts?</string>
+    <string name="DBL accounts is an application that allows you to backup your Dragon Ball Legends accounts locally on your device so you can play up to 7 different accounts quickly.">DBL accounts es una aplicación que le permite hacer copia de seguridad de sus cuentas de Dragon Ball Legends de forma local en su dispositivo y así poder jugar hasta en 7 cuentas diferentes rápidamente. </string>
+    <string name="How do I keep my accounts?">¿Cómo guardo mis cuentas?</string>
+    <string name="1- For security, verify that you have your current account in DRAGON BALL LEGENDS linked in the game (Google, Facebook or Twitter)">1-	Por seguridad, verifique que tiene su cuenta actual en DRAGON BALL LEGENDS vinculada en el juego (Google, Facebook o Twitter)</string>
+    <string name="WARNING!!! We are not responsible for any loss of accounts when using our application, follow the manual and use DBL accounts at your own risk. For security, always make sure you have your account linked before using DBL accounts.">¡¡¡ADVERTENCIA!!! No nos hacemos responsables de ninguna pérdida de cuentas al utilizar nuestra aplicación, siga el manual y utilice DBL accounts bajo su propia responsabilidad. Por seguridad asegúrese siempre de tener su cuenta vinculada antes de utilizar DBL accounts.</string>
+    <string name="2- Go to the account management screen by clicking on the icon:">2-	Diríjase a la pantalla  de gestión de cuentas pulsando el icono:</string>
+    <string name="3- Choose the position where you want to save your current account in the game, for example position 1:">3-	Elige la posición donde quieres guardar tu cuenta actual en el juego, por ejemplo la posición 1:</string>
+    <string name="4- Click on the disk icon:">4- Pulsa sobre el icono del disco:</string>
+    <string name="5- The confirmation screen with Shenron will appear:">5- Aparecerá  la pantalla de confirmación con Shenron:</string>
+    <string name="6- A verification icon will appear next to the position you chose:">6-	Un icono de verificación  aparecerá junto a la posición que elegiste:</string>
+    <string name="7- Your account was saved correctly in the selected position.">7-	Tu cuenta se guardó correctamente en la posición seleccionada.</string>
+    <string name="How do I start a new account in Dragon Ball Legends?">¿Cómo empiezo una nueva cuenta en Dragon Ball Legends?</string>
+    <string name="From the account management screen click on the dragon icon:">Desde la pantalla de gestión de cuentas pulse sobre el icono del dragón:</string>
+    <string name="1- The account deletion screen will open, if you want to delete your current Dragon Ball Legends account press the DELETE button">1-	Se abrirá la pantalla de eliminación de cuenta, si quiere borrar su cuenta actual de Dragon Ball Legends pulse el botón ELIMINAR</string>
+    <string name="ATTENTION, THIS ACTION DOES NOT HAVE A REVERSE !!!">¡¡¡ ATENCIÓN, ESTA ACCION NO TIENE MARCHA ATRÁS!!!</string>
+    <string name="REMEMBER THAT IF YOU ARE GOING TO TRANSFER AN ACCOUNT FROM iOS TO ANDROID WILL LOSE ALL YOUR CRYSTALS !!!">¡¡¡RECUERDE QUE SI VA A TRANSFERIR UNA CUENTA DESDE iOS A ANDROID PERDERÁ TODOS SUS CRISTALES!!!</string>
+    <string name="2- After deleting your account, click on the icon to open Dragon Ball Legends. GOOGLE PLAY version or CLONED version, depending on your installation.">2-	Después de borrar su cuenta, pulse sobre el icono para abrir Dragon Ball Legends. Versión GOOGLE PLAY o versión CLONADA, según sea su instalación.</string>
+    <string name="3- The game will be reset, and you can choose between TRANSFER a previously linked account or start a new account:">3-	El juego se habrá reseteado, y usted podrá elegir entre TRANSFERIR una cuenta previamente vinculada o empezar una nueva cuenta:</string>
+    <string name="How do I play with DBL accounts?">¿Cómo hago para jugar con DBL accounts?</string>
+    <string name="Once you have saved your accounts with DBL accounts, you only have to select the account in which you want to play from the main screen.">Una vez haya guardado sus cuentas con DBL accounts, usted solo tiene que seleccionar la cuenta en la que quiere jugar desde la pantalla principal.</string>
+    <string name="The indicator at the top right of the screen shows you the account that is currently activated:">El indicador de arriba a la derecha de la pantalla le muestra la cuenta que está activada actualmente:</string>
+    <string name="Select the position of the account you want to play in and click on the icon to open Dragon Ball Legends. GOOGLE PLAY version or CLONED version.">Seleccione la posición de la cuenta en la que desea jugar y pulse sobre el icono para abrir Dragon Ball Legends. Versión GOOGLE PLAY o versión CLONADA.</string>
+    <string name="ENJOY !!!">¡¡¡ DISFRUTE !!!</string>
+    <string name="Can I delete the stored accounts of my device?">¿Puedo borrar las cuentas almacenadas de mí dispositivo?</string>
+    <string name="To delete any account stored on your device go to the account management screen by clicking on the icon:">Para borrar cualquier cuenta almacenada en su dispositivo vaya a la pantalla de gestión de cuentas pulsando el icono:</string>
+    <string name="1- Click on the icon of the X, to the right of any account you want to delete:">1-	Pulse sobre el icono de la X, a la derecha de cualquier cuenta que quiera eliminar:</string>
+    <string name="2- A confirmation window will appear, press the green button to confirm the deletion of the account or the back arrow to invalidate the deletion:">2-	Aparecerá una ventana de confirmación, pulse sobre el botón verde para confirmar la eliminación de la cuenta o la flecha atrás para invalidar el borrado:</string>
+    <string name="3- Once the account has been deleted, the verification icon will have disappeared and the position will be available again:">3-	Una vez eliminada la cuenta, el icono de verificación habrá desaparecido y la posición volverá a estar disponible:</string>
+    <string name="Write permissions are required, so the application can save your accounts locally">Se requieren permisos de escritura, para que la aplicación pueda guardar sus cuentas de modo local</string>
+    <string name="START">EMPEZAR</string>
+    <string name="NEW ACCOUNT">NUEVA CUENTA</string>
+    <string name="DELETE">ELIMINAR</string>
+</resources>
